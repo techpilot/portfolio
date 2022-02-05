@@ -59,23 +59,23 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "70%"
+        "level": "60%"
       },
       {
         "name": "Python",
-        "level": "85%"
+        "level": "80%"
       },
       {
         "name": "Git",
-        "level": "55%"
+        "level": "67%"
       },
       {
         "name": "JavaScript",
-        "level": "87%"
+        "level": "81%"
       },
       {
         "name": "Web Development",
-        "level": "60%"
+        "level": "63%"
       }
     ]
   },
@@ -91,7 +91,7 @@
         "title": "Airbnb Clone (Next JS)",
         "category": "",
         "image": "airbnb.png",
-        "url": "https://github.com/techpilot"
+        "url": "https://airbnb-techpilot.vercel.app/"
       },
       {
         "title": "Covid-19 Tracker (React JS)",
@@ -103,7 +103,7 @@
         "title": "Exhibition (React & Tailwind)",
         "category": "",
         "image": "exhibition.png",
-        "url": "https://github.com/techpilot/Exhibition"
+        "url": "https://exhibition-nine.vercel.app/"
       },
       {
         "title": "Google Clone (React JS)",
