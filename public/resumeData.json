@@ -2,19 +2,19 @@
   "main": {
     "name": "Ngwu Stephen",
     "occupation": "Software Engineer",
-    "description": "I eat, sleep and breathe React",
-    "image": "profilepic.jpg",
-    "bio": "Hi there! I am Stephen! You might also know me as Cipher. I am a problem solver and web developer. As a developer I've worked on projects to help build my career. Along the journey I realised my passion existed in working on ideas. With this passion, I have worked on exciting projects. I've gotten hands-on experience and learned the skills that are required to succeed in the real-world.",
+    "description": "I design, create, and maintain computer software.",
+    "image": "pic.jpeg",
+    "bio": "I am a software developer from Nigeria. I have a passion for programming and have been working as a software developer for over 3 years. I am skilled in multiple programming languages and have experience working on a variety of platforms. I am a creative problem solver and enjoys working on challenging projects. I am also a good communicator and enjoys working with others to develop innovative solutions.",
     "contactmessage": "Get in touch with me for your software. And I am also open for remote jobs and gigs.",
     "email": "ngwustephen99@gmail.com",
-    "phone": "+234 808 177 1079",
+    "phone": "+234 916 086 2314",
     "address": {
-      "street": "Akulue Street",
-      "city": "New Haven",
-      "state": "Enugu",
+      "street": "University of Nigeria",
+      "city": "Enugu",
+      "state": "State",
       "zip": "W3B D3V"
     },
-    "resumedownload": "www.linkedin.com/in/steven-c-b65a77196",
+    "resumedownload": "Ngwu's Resume.pdf",
     "social": [
       {
         "name": "facebook",
@@ -44,78 +44,99 @@
       {
         "school": "University of Nigeria - Nsukka",
         "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2021",
-        "description": "Graduated"
+        "graduated": "",
+        "description": ""
       }
     ],
     "work": [
       {
-        "company": "CIPHER",
+        "company": "What I do",
         "title": "Software Engineer",
-        "years": "July 2020 - Present",
-        "description": "Developing and engineering softwares. Building ideas and working on gigs."
+        "years": "March 2022",
+        "description": "Developing and engineering frontend and backend based solutions. Developed smart contract for accepting ETH payments"
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "60%"
-      },
-      {
-        "name": "Python",
         "level": "80%"
       },
       {
-        "name": "Git",
-        "level": "67%"
+        "name": "NodeJs",
+        "level": "70%"
       },
       {
         "name": "JavaScript",
         "level": "81%"
       },
       {
+        "name": "Solidity",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
         "name": "Web Development",
-        "level": "63%"
+        "level": "83%"
+      },
+      {
+        "name": "Git",
+        "level": "78%"
       }
+      
     ]
   },
   "portfolio": {
     "projects": [
       {
         "title": "Amazon Clone (Next JS)",
-        "category": "",
+        "category": "A UI clone of Amazon online platform",
         "image": "amazon.png",
         "url": "https://github.com/techpilot/amazon"
       },
       {
         "title": "Airbnb Clone (Next JS)",
-        "category": "",
+        "category": "A UI clone of Airbnb platform",
         "image": "airbnb.png",
         "url": "https://airbnb-techpilot.vercel.app/"
       },
       {
         "title": "Covid-19 Tracker (React JS)",
-        "category": "",
+        "category": "Covid 19 data update for all countries",
         "image": "covid.png",
         "url": "https://github.com/techpilot/covid-19"
       },
       {
         "title": "Exhibition (React & Tailwind)",
-        "category": "",
+        "category": "An art exhibition website where users can view exhibited artworks across the world",
         "image": "exhibition.png",
         "url": "https://exhibition-nine.vercel.app/"
       },
       {
         "title": "Google Clone (React JS)",
-        "category": "",
+        "category": "A clone of google search engine with an actual search feature",
         "image": "google.png",
         "url": "https://github.com/techpilot/google-clone"
       },
       {
         "title": "Tourism Website (Node JS)",
-        "category": "",
+        "category": "A platform for users to register and book for tours",
         "image": "natours.png",
         "url": "https://github.com/techpilot"
+      },
+      {
+        "title": "Share it",
+        "category": "A photo sharing and pinning web app",
+        "image": "shareit.png",
+        "url": "https://keccakinsta.netlify.app/"
+      },
+      {
+        "title": "Crypto Rivulet",
+        "category": "An ETH sending web app through smart contract",
+        "image": "crypto.png",
+        "url": "https://crypto-rivulet.vercel.app/"
       }
     ]
   },
