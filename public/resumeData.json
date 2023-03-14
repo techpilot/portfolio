@@ -2,19 +2,19 @@
   "main": {
     "name": "Ngwu Stephen",
     "occupation": "Software Engineer",
-    "description": "I design, create, and maintain computer software.",
+    "description": "",
     "image": "pic.jpeg",
-    "bio": "I am a software developer from Nigeria. I have a passion for programming and have been working as a software developer for over 3 years. I am skilled in multiple programming languages and have experience working on a variety of platforms. I am a creative problem solver and enjoys working on challenging projects. I am also a good communicator and enjoys working with others to develop innovative solutions.",
+    "bio": " I am a skilled software developer with 3 years of experience in the industry. Throughout my career, I have worked on various software projects and have gained expertise in front-end and back-end, among other things. I hold a degree in Computer Science from University of Nigeria, where I honed my technical skills and developed a strong foundation in computer science. I have delivered successful software solutions that have helped my clients achieve their business goals.My work is characterized by attention to detail, efficiency, and creativity. I am passionate about delivering high-quality software solutions that meet or exceed my clients' expectations. My problem-solving skills, combined with my strong communication and collaboration abilities, make me a valuable asset to any software development team. I believe that software development is an ever-evolving field that requires continuous learning and improvement. That is why I am always exploring new technologies and seeking out opportunities to develop my skills further. Thank you for visiting my website. If you have any questions or would like to discuss a potential project, please do not hesitate to contact me through email. I look forward to hearing from you!",
     "contactmessage": "Get in touch with me for your software. And I am also open for remote jobs and gigs.",
     "email": "ngwustephen99@gmail.com",
     "phone": "+234 916 086 2314",
     "address": {
-      "street": "University of Nigeria",
-      "city": "Enugu",
-      "state": "State",
-      "zip": "W3B D3V"
+      "street": "",
+      "city": "Lagos",
+      "state": "Nigeria",
+      "zip": ""
     },
-    "resumedownload": "Ngwu's Resume.pdf",
+    "resumedownload": "Ngwu Stephen.pdf",
     "social": [
       {
         "name": "facebook",
@@ -44,14 +44,14 @@
       {
         "school": "University of Nigeria - Nsukka",
         "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "",
+        "graduated": "2021",
         "description": ""
       }
     ],
     "work": [
       {
-        "company": "What I do",
-        "title": "Software Engineer",
+        "company": "whatido",
+        "title": "Full Stack Developer",
         "years": "March 2022",
         "description": "Developing and engineering frontend and backend based solutions. Developed smart contract for accepting ETH payments"
       }

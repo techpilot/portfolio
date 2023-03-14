@@ -103,9 +103,9 @@ const Contact = ({ data }) => {
               </div>
 
               <div>
-                <button onClick={submitForm} type="submit" className="submit">
+                {/* <button onClick={submitForm} type="submit" className="submit">
                   Submit
-                </button>
+                </button> */}
               </div>
             </fieldset>
           </form>
