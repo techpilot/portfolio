@@ -4,7 +4,7 @@
     "occupation": "Software Engineer",
     "description": "",
     "image": "pic.jpeg",
-    "bio": " I am a skilled software developer with 3 years of experience in the industry. Throughout my career, I have worked on various software projects and have gained expertise in front-end and back-end, among other things. I hold a degree in Computer Science from University of Nigeria, where I honed my technical skills and developed a strong foundation in computer science. I have delivered successful software solutions that have helped my clients achieve their business goals.My work is characterized by attention to detail, efficiency, and creativity. I am passionate about delivering high-quality software solutions that meet or exceed my clients' expectations. My problem-solving skills, combined with my strong communication and collaboration abilities, make me a valuable asset to any software development team. I believe that software development is an ever-evolving field that requires continuous learning and improvement. That is why I am always exploring new technologies and seeking out opportunities to develop my skills further. Thank you for visiting my website. If you have any questions or would like to discuss a potential project, please do not hesitate to contact me through email. I look forward to hearing from you!",
+    "bio": " I am a skilled software developer with over 3 years of experience in the industry. Throughout my career, I have worked on various software projects and have gained expertise in front-end and back-end, among other things. I hold a degree in Computer Science from University of Nigeria, where I honed my technical skills and developed a strong foundation in computer science. I have delivered successful software solutions that have helped my clients achieve their business goals.My work is characterized by attention to detail, efficiency, and creativity. I am passionate about delivering high-quality software solutions that meet or exceed my clients' expectations. My problem-solving skills, combined with my strong communication and collaboration abilities, make me a valuable asset to any software development team. I believe that software development is an ever-evolving field that requires continuous learning and improvement. That is why I am always exploring new technologies and seeking out opportunities to develop my skills further. Thank you for visiting my website. If you have any questions or would like to discuss a potential project, please do not hesitate to contact me through email. I look forward to hearing from you!",
     "contactmessage": "Get in touch with me for your software. And I am also open for remote jobs and gigs.",
     "email": "ngwustephen99@gmail.com",
     "phone": "+234 916 086 2314",
@@ -51,39 +51,53 @@
     "work": [
       {
         "company": "whatido",
-        "title": "Full Stack Developer",
-        "years": "March 2022",
+        "title": "Full Stack Engineer",
+        "years": "March 2022 - June 2023",
         "description": "Developing and engineering frontend and backend based solutions. Developed smart contract for accepting ETH payments"
+      },
+      {
+        "company": "Dream Hunters DAO",
+        "title": "Front-end Engineer",
+        "years": "November 2022",
+        "description": "Building a world where every youth has the tools & support to make their dreams a reality. Developing and engineering web3.0 frontend based solutions."
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "80%"
+        "name": "React",
+        "level": "90%"
       },
       {
-        "name": "NodeJs",
-        "level": "70%"
+        "name": "Next.js",
+        "level": "90%"
+      },
+      {
+        "name": "Node.js",
+        "level": "85%"
       },
       {
         "name": "JavaScript",
-        "level": "81%"
+        "level": "86%"
+      },
+      {
+        "name": "Typescript",
+        "level": "62%"
       },
       {
         "name": "Solidity",
-        "level": "60%"
-      },
-      {
-        "name": "Python",
         "level": "70%"
       },
       {
+        "name": "Python",
+        "level": "78%"
+      },
+      {
         "name": "Web Development",
-        "level": "83%"
+        "level": "90%"
       },
       {
         "name": "Git",
-        "level": "78%"
+        "level": "88%"
       }
       
     ]
