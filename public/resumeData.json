@@ -1,7 +1,7 @@
 {
   "main": {
-    "name": "Ngwu Stephen",
-    "occupation": "Software Engineer",
+    "name": "Stephen Ngwu",
+    "occupation": "I develop beautiful, responsive and optimized websites.",
     "description": "",
     "image": "pic.jpeg",
     "bio": "With more than four years of experience crafting professional websites for businesses, brands, and individuals, I bridge the gap to your clients through a combination of my development and SEO skills. Got a project? Hire me and enjoy quality & excellence in delivery.",
@@ -17,19 +17,9 @@
     "resumedownload": "Ngwu Stephen.pdf",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/steven-c-b65a77196",
+        "url": "https://www.linkedin.com/in/stephen-ngwu-b65a77196",
         "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/autocipher/",
-        "className": "fa fa-instagram"
       },
       {
         "name": "github",
