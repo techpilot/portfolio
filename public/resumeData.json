@@ -4,7 +4,7 @@
     "occupation": "Software Engineer",
     "description": "",
     "image": "pic.jpeg",
-    "bio": " I am a skilled software developer with over 3 years of experience in the industry. Throughout my career, I have worked on various software projects and have gained expertise in front-end and back-end, among other things. I hold a degree in Computer Science from University of Nigeria, where I honed my technical skills and developed a strong foundation in computer science. I have delivered successful software solutions that have helped my clients achieve their business goals.My work is characterized by attention to detail, efficiency, and creativity. I am passionate about delivering high-quality software solutions that meet or exceed my clients' expectations. My problem-solving skills, combined with my strong communication and collaboration abilities, make me a valuable asset to any software development team. I believe that software development is an ever-evolving field that requires continuous learning and improvement. That is why I am always exploring new technologies and seeking out opportunities to develop my skills further. Thank you for visiting my website. If you have any questions or would like to discuss a potential project, please do not hesitate to contact me through email. I look forward to hearing from you!",
+    "bio": "With more than four years of experience crafting professional websites for businesses, brands, and individuals, I bridge the gap to your clients through a combination of my development and SEO skills. Got a project? Hire me and enjoy quality & excellence in delivery.",
     "contactmessage": "Get in touch with me for your software. And I am also open for remote jobs and gigs.",
     "email": "ngwustephen99@gmail.com",
     "phone": "+234 916 086 2314",
@@ -65,11 +65,11 @@
     "skills": [
       {
         "name": "React",
-        "level": "90%"
+        "level": "97%"
       },
       {
         "name": "Next.js",
-        "level": "90%"
+        "level": "94%"
       },
       {
         "name": "Node.js",
@@ -77,23 +77,23 @@
       },
       {
         "name": "JavaScript",
-        "level": "86%"
+        "level": "93%"
       },
       {
         "name": "Typescript",
-        "level": "62%"
+        "level": "72%"
       },
       {
         "name": "Solidity",
-        "level": "70%"
+        "level": "80%"
       },
       {
         "name": "Python",
-        "level": "78%"
+        "level": "88%"
       },
       {
         "name": "Web Development",
-        "level": "90%"
+        "level": "97%"
       },
       {
         "name": "Git",
@@ -162,7 +162,7 @@
       },
       {
         "text": "Working with Stephen has been AWESOME, he makes work so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Stanlee"
+        "user": "Stanley"
       }
     ]
   }
