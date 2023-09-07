@@ -40,16 +40,22 @@
     ],
     "work": [
       {
-        "company": "whatido",
-        "title": "Full Stack Engineer",
-        "years": "March 2022 - June 2023",
-        "description": "Developing and engineering frontend and backend based solutions. Developed smart contract for accepting ETH payments"
+        "company": "Nanocodes Programming Limited",
+        "title": "Lead Developer",
+        "years": "January 2023 - Present",
+        "description": "Led the development team to build scalable and responsive websites that meet client demands."
       },
       {
         "company": "Dream Hunters DAO",
         "title": "Front-end Engineer",
-        "years": "November 2022",
-        "description": "Building a world where every youth has the tools & support to make their dreams a reality. Developing and engineering web3.0 frontend based solutions."
+        "years": "October 2022 - June 2023",
+        "description": "Building a world where every youth has the tools & support to make their dreams a reality. Developing web3.0 frontend based solutions."
+      },
+      {
+        "company": "Global Network LLC",
+        "title": "Full Stack Engineer",
+        "years": "August 2021 - November 2022",
+        "description": "Worked as a frontend and backend engineer. Developed smart contract for accepting ETH payments"
       }
     ],
     "skills": [
